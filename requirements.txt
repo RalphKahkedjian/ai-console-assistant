@@ -1,0 +1,20 @@
+python-dotenv==1.0.1
+langchain==0.1.11
+rich==13.7.0
+google-generativeai==0.4.1
+flask==3.0.2
+
+# ==============================================================================
+# HOW TO RUN THE FLASK APP:
+# ==============================================================================
+# 1. Install dependencies:
+#    pip install -r requirements.txt
+#
+# 2. Set environment variables (or ensure your .env file is configured):
+#    (Windows PowerShell): $env:FLASK_APP="app.py"
+#    (Linux/Mac):          export FLASK_APP=app.py
+#
+# 3. Run the Flask application:
+#    python app.py
+#    (Alternatively using flask CLI): flask run
+# ==============================================================================
